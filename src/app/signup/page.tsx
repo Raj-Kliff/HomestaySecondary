@@ -9,7 +9,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import Select from '@/shared/Select'
 import axios from 'axios'
-// import ReCAPTCHA from "react-google-recaptcha";
+import ReCAPTCHA from "react-google-recaptcha";
 
 const countryCodes = require('country-codes-list')
 
